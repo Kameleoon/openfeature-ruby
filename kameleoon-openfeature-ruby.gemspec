@@ -13,5 +13,5 @@ Gem::Specification.new do |spec|
   spec.require_paths = ["lib"]
   spec.license       = 'GPL-3.0'
   spec.add_dependency 'openfeature-sdk', '>= 0.4.0'
-  spec.add_dependency 'kameleoon-client-ruby', '>= 3.4.0'
+  spec.add_dependency 'kameleoon-client-ruby', '>= 3.5.0'
 end
